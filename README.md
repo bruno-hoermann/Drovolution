@@ -1,2 +1,2 @@
 # Drovolution
-A Blender project, featuring learning a control strategy for a simple model of a quadrocopter. A feed-forward neural network is trained using genetic algorithms to control a drone to stabily fly to its goal.
+A project I did very early during my Bachelors. A control strategy for a simple model of a quadrocopter is learned by training a neural network using a genetic algorithm. After some training time the drone can reliably fly to flexible 3D target positions. The Blender game engine is used for the simulations.
